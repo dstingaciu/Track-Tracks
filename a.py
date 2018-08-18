@@ -1,6 +1,4 @@
 import spotipy
-import responses
-import requests
 
 from spotipy import util
 
